@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color:#97a5b5;
+}
+
+a {
+    color: rgb(26, 112, 223);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h2, p, input, a {
+    font-family: "Quicksand";
+}
+
+/* nav */
+
+.app-son {
+    color: rgb(26, 112, 223);
+}
+
+/* info-section generalities */
+
+.info-section {
+    padding: 30px 0;
+}
+
+.info-section:nth-child(n) {
+    background-color: rgb(243, 250, 251);
+}
+
+.info-section:nth-child(2n) {
+    background-color: white;
+}
+
+.description:nth-child(n) {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: start;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* first info-section */
+
+input.form-control {
+    border-radius: 20px;
+    border: 2px solid rgb(26, 112, 223);
+    border-right: none;
+    padding: 20px;
+    color: #97a5b5;
+}
+
+#button-addon2 {
+    background-color: rgb(26, 112, 223);
+    border-color: rgb(26, 112, 223);
+    color: white;    
+}
+
+.btn.btn-outline-secondary {
+    border-radius: 20px;
+}
+
+.images img {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+/* screenshots */ 
+
+.screenshots {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.screenshots p {
+    text-align: center;
+}
+
+.slide-image {
+    padding: 10px;
+}
+
+.uk-dotnav li a {
+    border-radius: 20px;
+    width: 25px;
+    height: 12px;
+}
+
+.uk-dotnav li.uk-active a {
+    background-color:rgb(26, 112, 223);
+    width: 35px;
+}
+
+/* footer */
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer p {
+    font-size: 10px;
+    margin: 0px;
+}
