@@ -76,8 +76,14 @@ input.form-control {
     border-radius: 20px;
 }
 
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .images img {
-    width: 100%;
+    width: 80%;
     height: auto;
     padding: 30px;
 }
@@ -130,7 +136,7 @@ footer p {
     margin: 0px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 767px){
     .titles { 
         align-self: center;
     }
