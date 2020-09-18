@@ -10,7 +10,7 @@
   <li>UI Kits</li>
 </ul>
 
-The mock-up ⬇️
+### The mock-up ⬇️
 
 <img src="images/Landing.jpg">
 
