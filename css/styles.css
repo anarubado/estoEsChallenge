@@ -84,6 +84,10 @@ input.form-control {
     background-color: transparent;
 }
 
+input.form-control:focus {
+    background-color: transparent;
+}
+
 #button-addon2 {
     background-color: rgb(26, 112, 223);
     border-color: rgb(26, 112, 223);
