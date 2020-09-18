@@ -117,8 +117,12 @@ input.form-control {
 
 footer {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    align-content: center;
+}
+
+footer i {
+    margin-right: 5px;
 }
 
 footer p {
