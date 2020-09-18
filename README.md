@@ -1,4 +1,12 @@
-# Recreating AppSon's web page mock-up with HTML5, CSS3, JavaScript, Bootstrap and UI Kits.
+# Recreating AppSon's web page mock-up
+
+Technologies 💻
+
+◾️ HTML5
+◽️ CSS3
+◾️ JavaScript
+◽️ Bootstrap
+◾️UI Kits
 
 The mock-up ⬇️
 
