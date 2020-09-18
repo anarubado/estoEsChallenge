@@ -81,6 +81,7 @@ input.form-control {
     border-right: none;
     padding: 20px;
     color: #97a5b5;
+    background-color: transparent;
 }
 
 #button-addon2 {
