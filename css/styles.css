@@ -54,6 +54,10 @@ h2, p, input, a, button {
 
 /* first info-section */
 
+.titles {
+    text-align: center;
+}
+
 input.form-control {
     border-radius: 20px;
     border: 2px solid rgb(26, 112, 223);
@@ -120,4 +124,10 @@ footer {
 footer p {
     font-size: 10px;
     margin: 0px;
+}
+
+@media (max-width: 768px){
+    .titles { 
+        align-self: center;
+    }
 }
